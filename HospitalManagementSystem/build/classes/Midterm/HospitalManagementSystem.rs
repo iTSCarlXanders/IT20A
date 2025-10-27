@@ -1,2 +1,0 @@
-hospital.management.system.HospitalManagementSystem
-hospital.management.system.HospitalManagementSystem$1Patient
